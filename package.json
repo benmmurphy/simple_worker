@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "name": "simple_worker",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "request":"2.9.153",
+    "express":"2.5.8"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
